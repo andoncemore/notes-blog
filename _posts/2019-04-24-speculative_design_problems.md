@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 5 Problems with Speculative Design
-tags: ["Papers-Articles"]
+tags: ["Books"]
+sourcetitle: Five Problems with Speculative Design - Tobias Revell
 source: http://blog.tobiasrevell.com/2019/04/five-problems-with-speculative-design.html
 ---
 This blog post by Tobias Revell put to words some of my thoughts on speculative design. I'll run through his 5 problems and share my thoughts. These are broad generalizations, maybe I'll find some counter-examples a bit later.
