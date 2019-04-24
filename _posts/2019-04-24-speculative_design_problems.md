@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Problems with Speculative Design
-tags: ["Books"]
+tags: ["Papers-Articles"]
 sourcetitle: Five Problems with Speculative Design - Tobias Revell
 source: http://blog.tobiasrevell.com/2019/04/five-problems-with-speculative-design.html
 ---
@@ -9,6 +9,9 @@ This blog post by Tobias Revell put to words some of my thoughts on speculative 
 
 ### 1. "Speculative Design has been separated from it's critical origins..."
 When you look a bit closer at the "critical origins" referenced here, like Superstudio, the design work doesn't actually seem that critical. The work seems critical in the broadest sense, and doesn't actually reference any people specifically, just "unjust social divisions". This sense of criticality does show up in most Speculative Design that says it is critical. It does its work in the most generic way possible, and uses white people as the default. The blog post does imply this, but doesn't say it explicitly.
+
+When you look a bit closer at the "critical origins" referenced here, like Superstudio, the design work doesn't actually seem that critical. The work seems critical in the broadest sense, and doesn't actually reference any people specifically, just "unjust social divisions". This sense of criticality does show up in most Speculative Design that says it is critical. It does its work in the most generic way possible, and uses white people as the default. The blog post does imply this, but doesn't say it explicitly.
+
 
 ### 2. "Speculative design reinforces one particular (European social democratic) notion of 'better'..."
 I think that this point connects to my thoughts on problem 1. All of speculative design is generally done from the frame of reference of the designer, who are usually from the West. By engaging people from different backgrounds, or from the Global South, speculative designers could push back against these norms.
