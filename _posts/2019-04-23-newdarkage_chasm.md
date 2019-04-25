@@ -22,3 +22,6 @@ These metaphors reduce the complexity of the systems they describe. But then onl
 
 ### Computational Thinking:
 Currently, those people that can unwrap those systems are technologists and tech-solutionists that believe in computational thinking. All new technologies are presented as inherently emancipatory.
+
+### Complexity vs. Abstraction
+Metaphors help us understand through abstraction. But that also hides the complexity, which makes it harder to know what is really happening. I'm struggling to differentiate between these two things.
