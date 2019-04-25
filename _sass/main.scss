@@ -144,15 +144,14 @@ aside{
         line-height:1.4;
     }
     blockquote{
+        margin-bottom:0px;
         p{
             color: $minor-light;
+            margin-bottom:2px;
         }
-        h4{
-            color: $minor-light;
-        }
-        p+h4{
-            margin-top:10px;
-        }
+    }
+    blockquote+h4{
+        margin-left: 40px;
     }
     hr{
         color: black;
@@ -218,7 +217,6 @@ aside{
     }
 
 }
-
 
 
 
