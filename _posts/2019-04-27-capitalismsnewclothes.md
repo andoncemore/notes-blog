@@ -8,7 +8,7 @@ source: https://thebaffler.com/latest/capitalisms-new-clothes-morozov
 
 This article was a review of the book The Age of Surveillance Capitalism by Shoshana Zuboff. This **long** book review gives context to Zuboff's ideas, and then critiques those ideas.
 
-### Ideas
+## Ideas
 
 Zuboff's previous work talks about a binary choice for corporations between automating and informating.
 
@@ -26,7 +26,7 @@ In this new book, Zuboff follows this distinction with a new idea of advocacy-or
 
 `Surveillance Capitalists:` Companies that follow use data as behavioral surplus, to modify behavior
 
-### A Bit of History
+## A Bit of History
 The context for Zuboff's theories can be found in Managerial Capitalism and a Chandler-Parsons framework.
 
 `Managerial Capitalism:` Alfred Chandler argued that large businesses are more efficient because of the ability of managers to coordinate things better than the market.
@@ -35,7 +35,7 @@ The context for Zuboff's theories can be found in Managerial Capitalism and a Ch
 
 In a Chandlerian framework, you use history to just find evidence that proves your model. In this analytical model, "change is propelled by adaptation and evolution, not by power struggles and revolution." But it is never compared against other analytical models, and historical evidence is cherry-picked to prove the model.
 
-### Critique
+## Critique
 
 According to Morozov, Zuboff's has a couple of potential theses:
 1. "Data is being appropriated--extensively, rationally, nefariously--and efforts to monetize it occasionally have deleterious social effects"
@@ -72,7 +72,7 @@ It's unclear whether the hunt for behavorial surplus is why Facebook and Google 
 
 There is no framework proposed to compare the harms of surveillance capitalism to any alternatives. The only solution is to assume that there is no alternative, that surveillance capitalism is hegemoic.
 
-### Critique of Academic Scholarship
+## Critique of Academic Scholarship
 
 [Evaluating Scholorship, or why I won't be teaching Shoshana Zuboffs The Age of Surveillance Capitalism ](https://blaynehaggart.wordpress.com/2019/02/15/evaluating-scholarship-or-why-i-wont-be-teaching-shoshana-zuboffs-the-age-of-surveillance-capitalism/)
 
