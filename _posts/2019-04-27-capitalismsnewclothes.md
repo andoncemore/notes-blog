@@ -58,6 +58,7 @@ Also, its not clear why a tech company is interested in behavioral surplus. The 
 
 A simpler theory would be that
 > "tech firms... are driven by long-term profitability. They achieve it by externalizing the costs of their operations and leveraging their political power. Data extraction and the behavioral modification it enables...arise, where they do, in that context"
+
 #### Capitalism's New Clothes, Section 10
 
 **C.** Current society favors surveillance capitalism over advocacy capitalism
