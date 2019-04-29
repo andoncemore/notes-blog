@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sidewalk Labs's Material Co-Design
-tags: ["Current-Events"]
+tags: ["Design-Projects"]
 sourcetitle: Sidewalk Labs’s Material Co-Design - Shannon Mattern
 source: http://wordsinspace.net/shannon/2019/04/28/sidewalk-labss-material-co-design/
 ---
